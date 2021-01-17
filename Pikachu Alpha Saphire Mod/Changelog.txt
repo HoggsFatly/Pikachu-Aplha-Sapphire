@@ -1,0 +1,5 @@
+version 1.0.1
+ -Figured out how to change pokedex sprites
+ -Changed another handful of pokemon
+  -bulbasaur through blastoise
+  -poochenya through ludicolo
